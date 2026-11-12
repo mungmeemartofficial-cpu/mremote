@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "url": "https://drive.google.com/uc?export=download&id=1vWer89L9NI8k-MbFMMS7OaVTDbQWVp9d",
-  "sha256": "ce4df35437930af706bc238f4ab9b0f3a948cd302afbb77c3b6aecd087d0b1a3",
-  "notes": "M Remote 1.0.17 - แก้ host เปิดภาพหน้าจอไม่ได้ (Could not start video source): ลองซ้ำ+รีเฟรช id+วิธีสำรอง getUserMedia + ฝั่งคุมแสดงสถานะวินิจฉัย"
+  "version": "1.0.19",
+  "url": "https://drive.google.com/uc?export=download&id=1hYUr_Q07yEBKO754TaeaKbCY5-60ehxt",
+  "sha256": "09938687837f49c1cde55ca6804a0f2f18a9f71a2de6cda12f96a743376d51fa",
+  "notes": "M Remote 1.0.19 - จับภาพไม่ได้ → สลับโหมดเข้ากันได้ (ปิด GPU) + รีสตาร์ทเองอัตโนมัติ"
 }
