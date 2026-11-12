@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "url": "https://drive.google.com/uc?export=download&id=1zAoIGtID_2S7Z4GJH9PLQc4XSHyKacg4",
-  "sha256": "68c86ba79830dd15cbeb93c86e09bc4b54619c8a62ff11cb4d4343872179e59f",
-  "notes": "M Remote 1.0.13 - แก้ภาพค้าง (เปิดสายใหม่อัตโนมัติ) + ย่อ/เรียกหน้าต่างกลับได้"
+  "version": "1.0.14",
+  "url": "https://drive.google.com/uc?export=download&id=1tSHKMwu8JbOTkwUGjibvrlpddAq9aUd3",
+  "sha256": "3538c7a2cfc2cddd4c3ed75ffb11d532d92ed1b63c5d1209832b862d61087047",
+  "notes": "M Remote 1.0.14 - แก้เปลี่ยนภาษาบนโปรแกรม admin (เปิดด้วยสิทธิ์ผู้ดูแล) + จุดแจ้งเตือนอัปเดตที่เลขเวอร์ชัน"
 }
