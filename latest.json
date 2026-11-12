@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "url": "https://drive.google.com/uc?export=download&id=17x0PNezXCWuMOJEi806Y-_sX71PgSI9a",
-  "sha256": "1d585bf245e7575d13cf9c30f7febfe2d6c6a199b433cf426a7cd6fe3e48e0ee",
-  "notes": "M Remote 1.0.21 - ใช้ Windows Graphics Capture (WGC) จับภาพ (แก้ Could not start video source บนเครื่อง Intel/หลายจอ) + สำรอง legacy อัตโนมัติ"
+  "version": "1.0.22",
+  "url": "https://drive.google.com/uc?export=download&id=1muQG8zpggYWTHjmI6vMEjKiiBukiKeVC",
+  "sha256": "68a97ec9554f35fa3ed63b8e02d2b1176ff9f0b2dc87baedc5c218e9c2ee2823",
+  "notes": "M Remote 1.0.22 - บันทึก log การจับภาพลงไฟล์ใน Downloads เพื่อวิเคราะห์สาเหตุ"
 }
