@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "url": "https://drive.google.com/uc?export=download&id=1sLLMTty4ye7DAPpeyKpf5M2cJ_4CNR99",
-  "sha256": "edf44a4083aec982e4af2d3ae0fbf16e99dc606f35740dd2d71e00ef5c57c561",
-  "notes": "M Remote 1.0.23 - จับภาพไม่ได้ตอนรัน admin → เปิดใหม่แบบผู้ใช้ปกติอัตโนมัติ (แก้ Could not start video source)"
+  "version": "1.0.24",
+  "url": "https://drive.google.com/uc?export=download&id=1b8Dw8gqsdrLWHZCZW60OZfiPNkgKQDM2",
+  "sha256": "dfb6d7d9e27fbd0308944162f812fa06ee2dc6cc5a468fe8d0b47f6d2fb5c9a9",
+  "notes": "M Remote 1.0.24 - de-elevate แบบเชื่อถือได้ (scheduled task /RL LIMITED) เปิดใหม่แบบผู้ใช้ปกติ แก้จับภาพไม่ได้ตอนรัน admin"
 }
