@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "url": "https://drive.google.com/uc?export=download&id=1b8Dw8gqsdrLWHZCZW60OZfiPNkgKQDM2",
-  "sha256": "dfb6d7d9e27fbd0308944162f812fa06ee2dc6cc5a468fe8d0b47f6d2fb5c9a9",
-  "notes": "M Remote 1.0.24 - de-elevate แบบเชื่อถือได้ (scheduled task /RL LIMITED) เปิดใหม่แบบผู้ใช้ปกติ แก้จับภาพไม่ได้ตอนรัน admin"
+  "version": "1.0.25",
+  "url": "https://drive.google.com/uc?export=download&id=1oGQwfXPJjjIXzNhq9D5_JictzaaSQraD",
+  "sha256": "64ea4ca23eddc05804b3d02955f6b14e5400eeec40fe54cfbaa6aef9e686ea2c",
+  "notes": "M Remote 1.0.25 - รุ่นวิเคราะห์: บันทึก log ละเอียด Chromium + สถานะ UAC/GPU (ไม่รีสตาร์ทเอง)"
 }
