@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "url": "https://drive.google.com/uc?export=download&id=1tSHKMwu8JbOTkwUGjibvrlpddAq9aUd3",
-  "sha256": "3538c7a2cfc2cddd4c3ed75ffb11d532d92ed1b63c5d1209832b862d61087047",
-  "notes": "M Remote 1.0.14 - แก้เปลี่ยนภาษาบนโปรแกรม admin (เปิดด้วยสิทธิ์ผู้ดูแล) + จุดแจ้งเตือนอัปเดตที่เลขเวอร์ชัน"
+  "version": "1.0.15",
+  "url": "https://drive.google.com/uc?export=download&id=1k3KWz5ECupIWm9HSWKACuGsprn95p07E",
+  "sha256": "c57bfb8ced45e30f442f32ca13a7225b92820e77064ba3287cbdc2ac8efd3976",
+  "notes": "M Remote 1.0.15 - ย่อหน้าต่างได้ปกติ(รองรับหลายจอ) + รัน Admin อัตโนมัติไม่ต้องกด UAC ซ้ำ + ตรวจหลายจอแม่นขึ้น"
 }
