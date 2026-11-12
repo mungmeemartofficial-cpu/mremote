@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "url": "https://drive.google.com/uc?export=download&id=1fvWsbh_cgRuLIdCzT3BmCrG0wCxYPM3I",
-  "sha256": "2d5e22324e465ef3273bdc610ca4f35f5873e44be91128d7e52acbb15def6278",
-  "notes": "M Remote 1.0.11"
+  "version": "1.0.13",
+  "url": "https://drive.google.com/uc?export=download&id=1zAoIGtID_2S7Z4GJH9PLQc4XSHyKacg4",
+  "sha256": "68c86ba79830dd15cbeb93c86e09bc4b54619c8a62ff11cb4d4343872179e59f",
+  "notes": "M Remote 1.0.13 - แก้ภาพค้าง (เปิดสายใหม่อัตโนมัติ) + ย่อ/เรียกหน้าต่างกลับได้"
 }
