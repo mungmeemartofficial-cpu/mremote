@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "url": "https://drive.google.com/uc?export=download&id=1k3KWz5ECupIWm9HSWKACuGsprn95p07E",
-  "sha256": "c57bfb8ced45e30f442f32ca13a7225b92820e77064ba3287cbdc2ac8efd3976",
-  "notes": "M Remote 1.0.15 - ย่อหน้าต่างได้ปกติ(รองรับหลายจอ) + รัน Admin อัตโนมัติไม่ต้องกด UAC ซ้ำ + ตรวจหลายจอแม่นขึ้น"
+  "version": "1.0.16",
+  "url": "https://drive.google.com/uc?export=download&id=1PIgOWLbFpGPmZbOBV5L_oP4jrA_dS41f",
+  "sha256": "96889e5a6b5dfc6fa9e57777670045bc35ee896517bfce7af0cca42daddbc7cf",
+  "notes": "M Remote 1.0.16 - แก้แอพมือถือค้างที่หน้ารอภาพ (เคลียร์ทันทีที่ได้ภาพ + แตะเพื่อเริ่ม) และ APK เวอร์ชันใหม่"
 }
