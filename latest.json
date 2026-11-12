@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "url": "https://drive.google.com/uc?export=download&id=1muQG8zpggYWTHjmI6vMEjKiiBukiKeVC",
-  "sha256": "68a97ec9554f35fa3ed63b8e02d2b1176ff9f0b2dc87baedc5c218e9c2ee2823",
-  "notes": "M Remote 1.0.22 - บันทึก log การจับภาพลงไฟล์ใน Downloads เพื่อวิเคราะห์สาเหตุ"
+  "version": "1.0.23",
+  "url": "https://drive.google.com/uc?export=download&id=1sLLMTty4ye7DAPpeyKpf5M2cJ_4CNR99",
+  "sha256": "edf44a4083aec982e4af2d3ae0fbf16e99dc606f35740dd2d71e00ef5c57c561",
+  "notes": "M Remote 1.0.23 - จับภาพไม่ได้ตอนรัน admin → เปิดใหม่แบบผู้ใช้ปกติอัตโนมัติ (แก้ Could not start video source)"
 }
