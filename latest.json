@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "url": "https://drive.google.com/uc?export=download&id=1hYUr_Q07yEBKO754TaeaKbCY5-60ehxt",
-  "sha256": "09938687837f49c1cde55ca6804a0f2f18a9f71a2de6cda12f96a743376d51fa",
-  "notes": "M Remote 1.0.19 - จับภาพไม่ได้ → สลับโหมดเข้ากันได้ (ปิด GPU) + รีสตาร์ทเองอัตโนมัติ"
+  "version": "1.0.21",
+  "url": "https://drive.google.com/uc?export=download&id=17x0PNezXCWuMOJEi806Y-_sX71PgSI9a",
+  "sha256": "1d585bf245e7575d13cf9c30f7febfe2d6c6a199b433cf426a7cd6fe3e48e0ee",
+  "notes": "M Remote 1.0.21 - ใช้ Windows Graphics Capture (WGC) จับภาพ (แก้ Could not start video source บนเครื่อง Intel/หลายจอ) + สำรอง legacy อัตโนมัติ"
 }
