@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "url": "https://drive.google.com/uc?export=download&id=1PIgOWLbFpGPmZbOBV5L_oP4jrA_dS41f",
-  "sha256": "96889e5a6b5dfc6fa9e57777670045bc35ee896517bfce7af0cca42daddbc7cf",
-  "notes": "M Remote 1.0.16 - แก้แอพมือถือค้างที่หน้ารอภาพ (เคลียร์ทันทีที่ได้ภาพ + แตะเพื่อเริ่ม) และ APK เวอร์ชันใหม่"
+  "version": "1.0.17",
+  "url": "https://drive.google.com/uc?export=download&id=1vWer89L9NI8k-MbFMMS7OaVTDbQWVp9d",
+  "sha256": "ce4df35437930af706bc238f4ab9b0f3a948cd302afbb77c3b6aecd087d0b1a3",
+  "notes": "M Remote 1.0.17 - แก้ host เปิดภาพหน้าจอไม่ได้ (Could not start video source): ลองซ้ำ+รีเฟรช id+วิธีสำรอง getUserMedia + ฝั่งคุมแสดงสถานะวินิจฉัย"
 }
