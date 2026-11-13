@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "url": "https://drive.google.com/uc?export=download&id=1ou725iB-RemKifUe27qvWKrEFcido4pK",
-  "sha256": "cd10fbf187e2c6a0285175a2a91acf2e1bbf498033a22e98a6fa1be7cf4ca189",
-  "notes": "M Remote 1.0.26 - เวอร์ชันสะอาด: รันแบบผู้ใช้ปกติ (จับภาพได้), เอาปุ่มสิทธิ์ผู้ดูแลออก, ล้าง task admin ที่ค้าง, ปิด log วิเคราะห์"
+  "version": "1.0.32",
+  "url": "https://drive.google.com/uc?export=download&id=1zrfh5_G3NJwkaRORvO8EtYE_hbDXazyV",
+  "sha256": "aec2055bfe3692c37bb3227793dccbc169937c0c94da15fc24d07e1263ccf199",
+  "notes": "M Remote 1.0.32 - แจ้งเตือนเมื่อมีหน้าต่างทำงานอยู่คนละจอกับที่กำลังดู + จำโหมดแสดงผล"
 }
