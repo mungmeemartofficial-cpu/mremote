@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "url": "https://drive.google.com/uc?export=download&id=1zrfh5_G3NJwkaRORvO8EtYE_hbDXazyV",
-  "sha256": "aec2055bfe3692c37bb3227793dccbc169937c0c94da15fc24d07e1263ccf199",
-  "notes": "M Remote 1.0.32 - แจ้งเตือนเมื่อมีหน้าต่างทำงานอยู่คนละจอกับที่กำลังดู + จำโหมดแสดงผล"
+  "version": "1.0.33",
+  "url": "https://drive.google.com/uc?export=download&id=1bnI5Rx6RklnK_woOq5iXK3u-N8HMmOWD",
+  "sha256": "8816fb5df942ea3d7499c5b8d5ddc96c8f3dbd1dc7bce9975b263fe613c6c9e8",
+  "notes": "M Remote 1.0.33 - กู้ภาพค้างอัตโนมัติ (ย่อ/ขยายหน้าต่าง) + แจ้งเตือนข้ามจอ"
 }
