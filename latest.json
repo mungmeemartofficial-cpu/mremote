@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
-  "url": "https://drive.google.com/uc?export=download&id=1bnI5Rx6RklnK_woOq5iXK3u-N8HMmOWD",
-  "sha256": "8816fb5df942ea3d7499c5b8d5ddc96c8f3dbd1dc7bce9975b263fe613c6c9e8",
-  "notes": "M Remote 1.0.33 - กู้ภาพค้างอัตโนมัติ (ย่อ/ขยายหน้าต่าง) + แจ้งเตือนข้ามจอ"
+  "version": "1.0.34",
+  "url": "https://drive.google.com/uc?export=download&id=1XX1eTFR9Go3rKlrq3rJXyT7jugNeVKTm",
+  "sha256": "173d2d7c2222708f7b0899b18c1d69b0414c3be1405625f8cb70d6be8d357006",
+  "notes": "M Remote 1.0.34 - รายการเครื่อง: สถานะออนไลน์ + แก้ชื่อ + ติดดาวเครื่องโปรด + กู้ภาพค้างอัตโนมัติ"
 }
