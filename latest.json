@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "url": "https://drive.google.com/uc?export=download&id=1XX1eTFR9Go3rKlrq3rJXyT7jugNeVKTm",
-  "sha256": "173d2d7c2222708f7b0899b18c1d69b0414c3be1405625f8cb70d6be8d357006",
-  "notes": "M Remote 1.0.34 - รายการเครื่อง: สถานะออนไลน์ + แก้ชื่อ + ติดดาวเครื่องโปรด + กู้ภาพค้างอัตโนมัติ"
+  "version": "1.0.35",
+  "url": "https://drive.google.com/file/d/1azQuBaMJEyBH6vsPAEv-BuhkLe7rbG7O/view",
+  "sha256": "0ec155cc804709477badbeaa981109aef08b41e84adc258fe3a7a5490a79a631",
+  "notes": "M Remote 1.0.35 — รีโมททะลุหน้าล็อก Windows (เชื่อม Lock Agent อัตโนมัติ): ล็อกแล้วเห็น+คุม+พิมพ์รหัสผ่านผ่าน M Remote เดิม ปลดล็อกกลับภาพปกติเอง"
 }
